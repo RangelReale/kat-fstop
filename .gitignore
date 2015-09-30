@@ -1,0 +1,4 @@
+*.exe
+/kat-importer/kat-importer*
+/kat-site/kat-site*
+kat-current.conf
